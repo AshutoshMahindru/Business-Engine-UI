@@ -1,9 +1,6 @@
-You are generating UI for a deterministic enterprise system.
 
-STRICT RULES:
-- Use ONLY allowed components (AppShell, TopBar, LeftNav, RightRail, KpiCard, DataTable, Chart, MatrixGrid, TreeView, TimelineEditor, FormInput, Slider, ValidationPanel, ImpactPanel, InsightPanel, Modal, Drawer, Tabs)
-- Layout must be: TopBar + LeftNav (optional) + Main Canvas + RightRail (always present)
-- Respect editable vs derived fields
-- Respect baseline vs modified states
-- No generic dashboard UI
-- High information density
+Use strict enterprise UI rules:
+- Component whitelist
+- Data contracts
+- Validation visibility
+- No hallucination

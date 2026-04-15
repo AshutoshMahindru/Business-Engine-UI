@@ -1,0 +1,24 @@
+
+SYSTEM HEADER:
+- Use AppShell layout
+- Include RightRail always
+- No hallucinated components
+
+SCREEN: control_tower/simulator
+
+LAYOUT:
+- TopBar (context filters)
+- Main Canvas
+- RightRail (Validation + Impact + Insights)
+
+COMPONENTS:
+- Use: DataTable, Chart, KPI, Slider, Tree, Matrix as applicable
+
+INTERACTIONS:
+- Click → select
+- Hover → highlight
+- Filter → recompute
+
+DO NOT:
+- create generic dashboards
+- use decorative UI

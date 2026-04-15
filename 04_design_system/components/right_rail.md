@@ -1,3 +1,10 @@
-# RightRail
-Sections: Validation, Impact, Insights, Actions
+
+Component: RightRail
+
+Sections:
+- Validation
+- Impact
+- Insights
+- Actions
+
 Always visible

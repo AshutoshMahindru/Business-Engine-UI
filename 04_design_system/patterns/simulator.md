@@ -1,2 +1,4 @@
-# Simulator
-Drivers → Compute → Outputs → Delta
+
+Pattern: Simulator
+
+Drivers → Compute → Outputs

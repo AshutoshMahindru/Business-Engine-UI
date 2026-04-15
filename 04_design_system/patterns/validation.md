@@ -1,2 +1,5 @@
-# Validation
-Error (blocking), Warning (non-blocking), Info
+
+Pattern: Validation
+
+Error (blocking)
+Warning (non-blocking)

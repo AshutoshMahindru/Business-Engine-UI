@@ -1,2 +1,7 @@
-# Slider
-Real-time (debounced 200ms), reset on double-click
+
+Component: Slider
+
+Behavior:
+- drag → debounce compute
+- double click → reset
+- keyboard support

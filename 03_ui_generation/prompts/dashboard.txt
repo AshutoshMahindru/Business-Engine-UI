@@ -1,5 +1,0 @@
-Render Control Tower Dashboard using:
-- KpiRow: Revenue, Orders, EBITDA, CAC, Capacity
-- Charts: RevenueTrend, OrdersTrend, MarketingSpend
-- Breakdown: ByMarket, ByCategory, ByFormat
-- RightRail: ValidationPanel, InsightPanel, ActionPanel
