@@ -1,1 +1,2 @@
-export default function Simulator(){return <div>Simulator</div>}
+import SimulatorPage from "../features/control_tower/simulator";
+export default SimulatorPage;
