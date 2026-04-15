@@ -1,0 +1,4 @@
+Render Simulator:
+- Left: sliders (penetration, awareness, price, marketing spend, capacity)
+- Right: charts (revenue, orders, profit) + delta vs baseline
+- Always show baseline overlay
