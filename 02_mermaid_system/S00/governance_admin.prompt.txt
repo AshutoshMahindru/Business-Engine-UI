@@ -1,0 +1,1 @@
+Generate UI for S00/governance_admin with enterprise SaaS constraints.

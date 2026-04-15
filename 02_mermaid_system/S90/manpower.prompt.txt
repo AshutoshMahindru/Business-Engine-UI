@@ -1,0 +1,1 @@
+Generate UI for S90/manpower with enterprise SaaS constraints.
