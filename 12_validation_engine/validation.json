@@ -1,0 +1,5 @@
+{
+  "type": "error",
+  "rule": "share_sum_100",
+  "message": "Shares must sum to 100%"
+}

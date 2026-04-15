@@ -1,0 +1,6 @@
+{
+  "id": "string",
+  "name": "string",
+  "prep_time": "number",
+  "complexity_score": "derived"
+}
